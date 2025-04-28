@@ -1,4 +1,4 @@
-## DTU MTech Information Technology
+## DTU MTech Information Technology (2024-26)
 
 I'm going to be storing all the lab assignments here.
 This will be a central place where everything is organized and easy to find.
